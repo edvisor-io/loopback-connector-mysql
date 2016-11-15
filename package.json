@@ -9,7 +9,7 @@
   "dependencies": {
     "async": "^0.9.0",
     "debug": "^2.1.1",
-    "loopback-connector": "^2.1.0",
+    "loopback-connector": "edvisor-io/loopback-connector#v2.7.1-Edvisor",
     "mysql": "^2.5.4"
   },
   "devDependencies": {
